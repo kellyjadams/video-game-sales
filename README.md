@@ -1,5 +1,5 @@
 # Video Game Sales Data
-## 🏋️♀🕹 Overview
+## 🕹 Overview
 A project where I analyzed video game sales data using SQL and created an interactive dashboard using Tableau. The data is from Kaggle, you can view it [here](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download).
 
 ### 🔗 Links
