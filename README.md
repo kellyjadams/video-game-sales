@@ -7,5 +7,5 @@ A project where I analyzed video game sales data using SQL and created an intera
 * Article
 
 ## 📁 Files
-* [vgsales_CSV.csv](https://github.com/kellyjadams/weightlifting-data/blob/main/query.sql) is the data in .csv format. 
+* [vgsales_CSV.csv](https://github.com/kellyjadams/video-game-sales/blob/main/vgsales_CSV.csv) is the data in .csv format. 
 * [querysql](https://github.com/kellyjadams/weightlifting-data/blob/main/schema.sql) is SQL code includes the queries I used to analyze my weightlifting data.
