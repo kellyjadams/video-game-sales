@@ -5,6 +5,7 @@ A project where I analyzed video game sales data using SQL and created an intera
 ### 🔗 Links
 * Tableau Dashboard
 * Article
+* LinkedIn Post
 
 ## 📁 Files
 * [vgsales_CSV.csv](https://github.com/kellyjadams/video-game-sales/blob/main/vgsales_CSV.csv) is the data in .csv format, currently the file is too large to view in Github but feel free to download it. 
